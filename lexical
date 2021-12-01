@@ -1,6 +1,6 @@
 // LEXICAL Correctness
 #include <stdio.h>
-int maximum(int x, int y) {
+int minimum(int x, int y) {
         // This will compare 2 numbers
         if (x > y)
             return x;
