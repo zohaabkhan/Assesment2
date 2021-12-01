@@ -1,0 +1,8 @@
+//syntactical correction
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello professor";
+  return 0;
+}
